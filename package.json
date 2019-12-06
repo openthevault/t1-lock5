@@ -1,0 +1,22 @@
+{
+  "name": "t1-lock5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.ibm.com/Edgar-Castaneda/t1-lock5"
+  },
+  "author": "Bruney",
+  "license": "ISC",
+  "dependencies": {
+    "balanced-match": "^1.0.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "request": "^2.88.0"
+  }
+}
